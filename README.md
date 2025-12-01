@@ -17,6 +17,5 @@ The project uses core Java concepts such as OOP, ArrayList, packages, and classe
 
 ---
 
-## 📁 Project Structure
 
 
